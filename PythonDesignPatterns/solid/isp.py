@@ -1,5 +1,7 @@
 """
 Interface Segregation Principle
+
+Don't put too much into an interface, split into separate interfaces.
 """
 # Should split these interfaces into different interfaces to remove dependencies from one another
 from abc import abstractclassmethod, abstractmethod

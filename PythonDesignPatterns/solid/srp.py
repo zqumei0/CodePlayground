@@ -1,5 +1,8 @@
 """
 Single Responsibility Principle - Separation of Concerns
+
+Class should only have one reason to change
+Different classes different problems.
 """
 class Journal:
   """

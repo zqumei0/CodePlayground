@@ -1,5 +1,7 @@
 """
 Dependency Inversion Principle
+
+High-level modules should not depend upon low-level ones - use abstractions.
 """
 from abc import abstractclassmethod, abstractmethod
 from enum import Enum

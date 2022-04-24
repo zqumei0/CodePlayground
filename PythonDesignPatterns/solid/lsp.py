@@ -1,5 +1,7 @@
 """
 Liskov Substitution Principle
+
+You should be able to substitute a base type for a subtype.
 """
 class Rectangle:
   def __init__(self, width, height):
